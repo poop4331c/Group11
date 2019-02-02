@@ -4,7 +4,7 @@
 
 - Keyana Wright
 - Ankita Tripathi
--
+- Nicole Andrade
 -
 
 ## Vision Statement
