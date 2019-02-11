@@ -8,9 +8,9 @@
 - Jade Zsiros
 
 ## Vision Statement
-- For: 
-- Who: 
-- The: 
+- For: gamers
+- Who: are interested in thought-controlled game play
+- The: Psonic Psychic Pspheroid
 - Is a: 
 - That: 
 - Unlike:
