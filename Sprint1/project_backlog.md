@@ -5,8 +5,8 @@
 |000 |  “As a player, I want the headset to interface by USB, so that it is easy to use. |2|1|“when I plug the headset, the game will tell me if the headset is plugged in”|4/5|
 |001 | “As a player, I want to be able to tell that I have the headset on incorrectly, so that I know when to adjust it."|1|2| “when I have the headset on incorrectly, the game will instruct me to fix the fit." |1/5|
 |002 | "As a player, I want to have the opportunity to pause the game so that I don't lose progress if I have to stop." |2|3| "A pause button is available on the game screen and stops the timer and game play." |0/5|
-|003 | “As a player, I want a meter that shows how focused I am, so that I can tell if I need to focus more.” |        |          | “when I am more focused, the meter goes up." |        |
-|004 | "As a player, I want to be able to start playing the game for the first time quickly."  |        |          | "When I open the game, brief sentences are visible with instructions from the main menu." |        |
+|003 | “As a player, I want a meter that shows how focused I am, so that I can tell if I need to focus more.” |1|1| “when I am more focused, the meter goes up." |0/5|
+|004 | "As a player, I want to be able to start playing the game for the first time quickly."  |1|3| "When I open the game, brief sentences are visible with instructions from the main menu." |0/5|
 |005 | "As a player, I want to be able to improve my play on repeated attempts so that I am incentivized to play again." |        |          |"Bonus items and powerups are available in-game but not necessary for completion."|        |
 |006 |"As a player, I want feedback as to how well I performed at the end of a round so that I can see my progress."|        |          |"When I reach Game Over, I see information as to how long I lasted, how focused I was, and how far I got."|        |
 |007 |“As a player, I want to have some sort of placing system, so I know how well I’ve done."|        |          | “when I’ve made it a certain distance, I will achieve a certain medal." |        |
