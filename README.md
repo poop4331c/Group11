@@ -8,13 +8,8 @@
 - Jade Zsiros
 
 ## Vision Statement
-- For: gamers
-- Who: are interested in brain-controlled game play
-- The: Psonic Psychic Pspheroid
-- Is a: 3d rolling-ball game 
-- That: allows players to avoid obstacles by thinking
-- Unlike: other proposed EEG games which never get to beta phase 
-- Our product: will be playable by the end of the semester.
+
+For gamers who are interested in brain-controlled play, the Psonic Psychic Pspheroid is a three-dimensional rolling-ball game that allows players to control a sprite and avoid obstacles by thinking. Unlike other EEG games, which consist of a single onscreen element with no background or scoring, our game will have a fully detailed map, player feedback, a scoreboard, and normal 3d game elements such as obstacles and powerups.
 
 
 # Sprint 1
