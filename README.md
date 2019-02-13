@@ -9,7 +9,7 @@
 
 ## Vision Statement
 - For: gamers
-- Who: are interested in thought-controlled game play
+- Who: are interested in brain-controlled game play
 - The: Psonic Psychic Pspheroid
 - Is a: 
 - That: 
