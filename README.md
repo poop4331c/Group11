@@ -11,10 +11,10 @@
 - For: gamers
 - Who: are interested in brain-controlled game play
 - The: Psonic Psychic Pspheroid
-- Is a: 
-- That: 
-- Unlike:
-- Our product: 
+- Is a: 3d rolling-ball game 
+- That: allows players to avoid obstacles by thinking
+- Unlike: other proposed EEG games which never get to beta phase 
+- Our product: will be playable by the end of the semester.
 
 
 # Sprint 1
