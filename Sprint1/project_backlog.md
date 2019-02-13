@@ -13,7 +13,7 @@
 |008 |"As a player, I want to be able to take control of the game in case the headset malfunctions or I have difficulty using it." |        |          |"Mouse and keyboard controls are available for the user to exit or pause the game."|        |
 |009 |"As a player, I want to feel challenged to play in a new way that I am not accustomed to." |        |          | "The game will be controlled by EEG readings, so that a player's focus and thoughts directly control their in-game movement."    |        |
 |010 | “As a player, I want to be able to have an exit button, so that I can exit the game anytime”|        |          |“When I click the exit button, I get exited out of the game”|        |
-|011 |“As a player, I want to be able to see my new high score (new longest distance), so that I can try to go further the next game” |        |          |“When I reach a further distance, my score is displayed” |  
+|011 ||        |          | |  
 |012 |            |        |          |                     |        |
 |013 |            |        |          |                     |        |
 |014 |            |        |          |                     |        |
