@@ -14,7 +14,7 @@
 |009 |"As a player, I want to feel challenged to play in a new way that I am not accustomed to." |        |          | "The game will be controlled by EEG readings, so that a player's focus and thoughts directly control their in-game movement."    |        |
 |010 | “As a player, I want to be able to have an exit button, so that I can exit the game anytime”|        |          |“When I click the exit button, I get exited out of the game”|        |
 |011 |“As a player, I want to be able to see my new high score (new longest distance), so that I can try to go further the next game” |        |          |“When I reach a further distance, my score is displayed” |  
-|012 |            |        |          |                     |        |
+|012 |"As a player, I want to be able to continue playing as long as I am doing well."|3|2|"The map ahead of the player is procedurally generated as long as the player doesn't reach a Game Over."|0/5|
 |013 |            |        |          |                     |        |
 |014 |            |        |          |                     |        |
 |015 |            |        |          |                     |        |
