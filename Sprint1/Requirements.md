@@ -7,5 +7,5 @@
 |       002      |      002      |Clicking the pause button will pause the game |        |
 |       003      |      003      |While playing the game there will be a box in the corner to represent the meter |
 |       004      |      003      |The meter will have a colored bar the fills the box depending on how focused the player is. |        |
-|       005      |      003      |If the player is extremely focused the bar will go up |        | 
-|       006      |      003      |If the player loses focus the bar will go down  |        |
+|       005      |      003      |If the player is extremely focused the bar indicating how focused the player is will go up |        | 
+|       006      |      003      |If the player loses focus the bar indicating how focused the player is will go down  |        |
