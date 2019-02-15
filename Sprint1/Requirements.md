@@ -21,7 +21,7 @@
 | 017|004|When the "how-to" button is clicked, a brief, easy-to-understand explanation of how to play the game will be displayed.| |
 | 018|005|There will be optional power-ups and bonus items to collect to boost the player's total score while playing the game.| |
 | 019|006|At the end of each game, a stats summary will be displayed for time played, attention levels and distance travelled in the game.| |
-| 020|007|There will be keyboard shirtcuts to quit and pause the game.| |
+| 020|007|There will be keyboard shortcuts to quit and pause the game.| |
 | 021|009|The player's EEG data will be translated into forward and backward motion in the game.| |
 | 022|010|When the exit button is clicked the game will end.| |
 | 023|011|The in-game distance and score shall be recorded for the game last played to compare with the current game.| |
