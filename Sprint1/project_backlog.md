@@ -7,7 +7,7 @@
 |002 | "As a player, I want to have the opportunity to pause the game so that I don't lose progress if I have to stop." |2|3| "A pause button is available on the game screen and stops the timer and game play." |0/5|
 |003 | “As a player, I want a meter that shows how focused I am, so that I can tell if I need to focus more.” |1|1| “when I am more focused, the meter goes up." |0/5|
 |004 | "As a player, I want to be able to understand how to play the game for the first time quickly."  |1|3| "When I open the game, brief sentences are visible with instructions from the main menu." |0/5|
-|005 | "As a player, I want to be able to improve my play on repeated attempts so that I am incentivized to play again." |        |          |"Bonus items and powerups are available in-game but not necessary for completion."|        |
+|005 | "As a player, I want to be able to improve my score further even if I am already doing well in the game." |        |          |"Bonus items and powerups are available in-game but not necessary for completion."|        |
 |006 |"As a player, I want feedback as to how well I performed at the end of a round so that I can see my progress."|        |          |"When I reach Game Over, I see information as to how long I lasted, how focused I was, and how far I got."|        |
 |007 |“As a player, I want to have some sort of placing system, so I know how well I’ve done."|        |          | “when I’ve made it a certain distance, I will see a high score." |        |
 |008 |"As a player, I want to be able to take control of the game in case the headset malfunctions or I have difficulty using it." |        |          |"Mouse and keyboard controls are available for the user to exit or pause the game."|        |
@@ -16,7 +16,7 @@
 |011 |“As a player, I want to be able to see my new high score (new longest distance), so that I can try to go further the next game” |        |          |“When I reach a further distance, my score is displayed” |  
 |012 |"As a player, I want to be able to continue playing as long as I am doing well."|3|2|"The map ahead of the player is procedurally generated as long as the player doesn't reach a Game Over."|0/5|
 |013 |"As a player, I want to be able to choose from different sprites" |    |          |"when the game loads there will be sprite options"           |        |
-|014 |            |        |          |                     |        |
+|014 |"As a player, I want to be incentivized to play the game again."|4/5|3|"Before a new game begins the last high score that was achieved will be displayed."| |
 |015 |            |        |          |                     |        |
 |016 |            |        |          |                     |        |
 |017 |            |        |          |                     |        |
