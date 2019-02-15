@@ -19,10 +19,11 @@
 | 015|003|If the player loses focus the bar indicating how focused the player is will go down.| |
 | 016|004|The main menu will have a "how-to" button.| |
 | 017|004|When the "how-to" button is clicked, a brief, easy-to-understand explanation of how to play the game will be displayed.| |
-| 018|005|There will be optional power-ups and bonus items to collect to boost the player's total score while playing the game.| |
-| 019|006|At the end of each game, a stats summary will be displayed for time played, attention levels and distance travelled in the game.| |
-| 020|007|There will be keyboard shortcuts to quit and pause the game.| |
-| 021|009|The player's EEG data will be translated into forward and backward motion in the game.| |
-| 022|010|When the exit button is clicked the game will end.| |
-| 023|011|The in-game distance and score shall be recorded for the game last played to compare with the current game.| |
-| 024|012|The map in the game will be procedurally generated as long as player does not lose or quit the game.| |
+| 018|005|There will be power-ups and bonus items to collect while playing the game.| |
+| 019|005|The power-ups and bonus items will boost the player's total score.| |
+| 020|006|At the end of each game, a stats summary will be displayed for time played, attention levels and distance travelled in the game.| |
+| 021|007|There will be keyboard shortcuts to quit and pause the game.| |
+| 022|009|The player's EEG data will be translated into forward and backward motion in the game.| |
+| 023|010|When the exit button is clicked the game will end.| |
+| 024|011|The in-game distance and score shall be recorded and saved for the game last played to compare with the current game.| |
+| 025|012|The map in the game will be procedurally generated as long as player does not lose or quit the game.| |
