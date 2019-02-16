@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//Updated code for the Main Menu
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -6,21 +8,36 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     public string newGameScene;
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
+    public GameObject HowToPanel;
+    public GameObject HighScorePanel;
+ 
     public void NewGame()
     {
         SceneManager.LoadScene(newGameScene);
+    }
+
+    //Opens a pop up box that displays the high score
+    public void HighScore()
+    {
+        if(HighScorePanel != null)
+        {
+            bool isActive = HighScorePanel.activeSelf;
+
+            HighScorePanel.SetActive(!isActive);
+        }
+
+    }
+
+    //Opens a pop up box that displays the instructions
+    public void OpenHowToPanel()
+    {
+        if ( HowToPanel != null)
+        {
+            bool isActive = HowToPanel.activeSelf;
+
+            HowToPanel.SetActive(!isActive);
+       
+        }
     }
 
     public void QuitGame()
