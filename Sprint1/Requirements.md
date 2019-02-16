@@ -27,3 +27,5 @@
 | 023|010|When the exit button is clicked the game will end.| |
 | 024|011|The in-game distance and score shall be recorded and saved for the game last played to compare with the current game.| |
 | 025|012|The map in the game will be procedurally generated as long as player does not lose or quit the game.| |
+| 026|013|The player will have the option to choose between two different sprites.| |
+| 027|014|Before the game begins, the highest score achieved will be displayed.| |
