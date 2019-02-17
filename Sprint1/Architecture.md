@@ -1,4 +1,3 @@
-# Architecture
 
 # Program Organization
 
