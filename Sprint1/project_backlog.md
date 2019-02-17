@@ -19,10 +19,10 @@
 |014 |"As a player, I want to be incentivized to play the game again."|4|3|"Before a new game begins the last high score that was achieved will be displayed."| |
 |015 |"As a player, I want to be able to mute the music."|3|4|"Before the game begins and while in game, there will be an option to mute the music."|        |
 |016 |"As a player, I want a main menu available so I can easily exit, pause, start an view the score board" | | |"When the game starts, the main menu will be displayed" |        |
-|017 |"As a player, I want to be able to exit the game from the main menu "|| | |        |
-|018 |"As a player I want to be able to navigate to the main menu while in the game"|  |  |       |        |
-|019 |"As a player I want to be able to start the game from the main menu"|  |  |       |        |
-|020 |"As a player I want to be able to watch my score increase while I play"|  |  |       |        |
+|017 |"As a player, I want to be able to exit the game from the main menu "|| | |"when I open the main menu an exit button will be display and will exit the game when clicked"|
+|018 |"As a player I want to be able to navigate to the main menu while in the game"|  |  |"while playing the game a button that navigates to the main menu will be displayed"|        |
+|019 |"As a player I want to be able to start the game from the main menu"|  |  |"when I open the main menu an start button will be display and will start the game when clicked"|        |
+|020 |"As a player I want to be able to watch my score increase while I play"|  |  |"while playing the game a score will be diplayed and will increase as the player continues to play"|        |
 |021||  |  |       |        |
 |022||  |  |       |        |
 |023||  |  |       |        |
