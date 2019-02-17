@@ -18,7 +18,7 @@
 |013 |"As a player, I want to be able to choose from different sprites" |2|3|"when the game loads there will be sprite options" |PENDING|
 |014 |"As a player, I want to be incentivized to play the game again."|2|3|"Before a new game begins the last high score that was achieved will be displayed."|PENDING|
 |015 |"As a player, I want to be able to mute the music."|3|4|"Before the game begins and while in game, there will be an option to mute the music."|PENDING|
-|016 |"As a player, I want a main menu available so I can easily exit, pause, start an view the score board" |2|1|"When the game starts, the main menu will be displayed" |DONE|
+|016 |"As a player, I want a main menu available so I can easily navigate the game" |2|1|"When the game starts, the main menu will be displayed" |DONE|
 |017 |"As a player I want to be able to navigate to the main menu while in the game"|2|1|"while playing the game a button that navigates to the main menu will be displayed"|PENDING|
 |018 |"As a player I want to be able to start the game from the main menu"|2|1|"when I open the main menu an start button will be display and will start the game when clicked"|WORKING|
 |019 |"As a player I want to be able to watch my score increase while I play"|3|2|"while playing the game a score will be diplayed and will increase as the player continues to play"|PENDING|
