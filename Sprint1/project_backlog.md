@@ -16,8 +16,8 @@
 |011 |“As a player, I want to be able to see my new high score (new longest distance), so that I can try to go further the next game” |        |          |“When I reach a further distance, my score is displayed” |  
 |012 |"As a player, I want to be able to continue playing as long as I am doing well."|3|2|"The map ahead of the player is procedurally generated as long as the player doesn't reach a Game Over."|0/5|
 |013 |"As a player, I want to be able to choose from different sprites" |    |          |"when the game loads there will be sprite options"           |        |
-|014 |"As a player, I want to be incentivized to play the game again."|4/5|3|"Before a new game begins the last high score that was achieved will be displayed."| |
-|015 |"As a player, I want to be able to mute the music."|3/5|4|"Before the game begins and while in game, there will be an option to mute the music."|        |
+|014 |"As a player, I want to be incentivized to play the game again."|4|3|"Before a new game begins the last high score that was achieved will be displayed."| |
+|015 |"As a player, I want to be able to mute the music."|3|4|"Before the game begins and while in game, there will be an option to mute the music."|        |
 |016 |            |        |          |                     |        |
 |017 |            |        |          |                     |        |
 |018 |            |        |          |                     |        |
