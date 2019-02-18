@@ -29,6 +29,12 @@
 
 # Architectural Feasibility
 
+The two major challenges in this project are the EEG interface and the procedural level generation. Other than these two elements, the game is a rather straightforward in creation. 
+
+In order to understand the process of interfacing with the EEG, we experimented with interpreting our own mental signals, both by playing other games designed for EEGs and by using Arduino's serial monitor and Processing to visualize the data being transmitted. We are now confident that we understand how to connect to the EEG with Unity and how to interpret the data we do receive. 
+
+The other challenge is procedural level generation. Research shows this is difficult to achieve and that it will take extensive programming. In order to mitigate this, we intend to create a variety of map tiles and simply attach them to each other semi-randomly. We believe that this will still present a challenge, but also allow us to guarantee the feasibility of our game. 
+
 # Overengineering
 
 Because Unity will be constantly and repeatedly using the code we write, it must be efficient and free of errors. Care will be taken to minimize the length of the code and ensure that all resources are dealt with appropriately. Any issues with the code are likely to multiply quickly. 
