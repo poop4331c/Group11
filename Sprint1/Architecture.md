@@ -12,7 +12,11 @@ We will be designing and programming the game in Unity. Because of this, most of
 As this is a game, we have no business rules. 
 
 # User Interface Design
-
+- [Main Menu](https://imgur.com/OYWJaQC)
+- [Scoreboard](https://imgur.com/83XkXo8)
+- [Obstacles](https://imgur.com/oG9y2H3)
+- [Enviroment] ()
+- [Focus Meter](https://imgur.com/kdBu6G7)
 # Resource Management
 
 # Security
