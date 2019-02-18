@@ -1,4 +1,4 @@
-//Code for the main menu
+//Code for main menu with test cases
 
 using System.Collections;
 using System.Collections.Generic;
