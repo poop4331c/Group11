@@ -9,11 +9,15 @@ We will be designing and programming the game in Unity. Because of this, most of
 
 # Business Rules
 
+As this is a game, we have no business rules. 
+
 # User Interface Design
 
 # Resource Management
 
 # Security
+
+Nothing about the game will be secured. If the user would like to tamper with their own high score list, that's their decision to live with. 
 
 # Performance
 
