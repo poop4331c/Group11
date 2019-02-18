@@ -20,9 +20,7 @@ For gamers who are interested in brain-controlled play, the Psonic Psychic Psphe
 - [Requirements](https://github.com/poop4331c/Group11/blob/master/Sprint1/Requirements.md)
 - Design documents
   * [System Architecture](https://github.com/poop4331c/Group11/blob/master/Sprint1/Architecture.md)
-  * Class Diagrams
-  * Sequence Diagrams
-  * etc
+  * GUI Diagrams
 - [Source Code](https://github.com/poop4331c/Group11/tree/master/Sprint1/Code)
 - Test Cases
 - Product Demonstration
