@@ -15,7 +15,7 @@ As this is a game, we have no business rules.
 - [Main Menu](https://imgur.com/OYWJaQC)
 - [Scoreboard](https://imgur.com/83XkXo8)
 - [Obstacles](https://imgur.com/oG9y2H3)
-- [Enviroment] ()
+- [Environment] ()
 - [Focus Meter](https://imgur.com/kdBu6G7)
 # Resource Management
 
