@@ -1,6 +1,8 @@
 
 # Program Organization
 
+We will be designing and programming the game in Unity. Because of this, most of the program's organization is decided for us. Each piece of code will be attached to an item or feature in the game, eliminating much of the need for overall structural design. 
+
 # Major Classes
 
 # Data Design
