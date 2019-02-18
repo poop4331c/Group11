@@ -31,6 +31,10 @@
 
 # Overengineering
 
+Because Unity will be constantly and repeatedly using the code we write, it must be efficient and free of errors. Care will be taken to minimize the length of the code and ensure that all resources are dealt with appropriately. Any issues with the code are likely to multiply quickly. 
+
+Although the code is running on Unity, a platform that takes care of much of the architecture for us, we will be controlling the player character with an external sensor of our own design. The sensor picks up a lot of noise and is likely to give values that can cause problems within the game. Because of this, the most care will be put into processing the information received from the EEG, eliminating noise, and allowing the rest of the game only to see sensible data. 
+
 # Build-vs-Buy Decisions
 
 Our group is not made up of game designers, neuroscientists, or artists. 
