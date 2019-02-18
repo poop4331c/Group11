@@ -6,5 +6,5 @@
 |004|"As a player, I want a description of the game available so that I will know how to play"|2|2|"When I open the game, The main menu will have a how to button that when clicked will display a description of the game"|Nicole Andrade|
 |010 |"As a player, I want to be able to exit the game from the main menu "|2|1|"When I open the main menu an exit button will be displayed and will exit the game when clicked" |Nicole Andrade|
 |016 |"As a player, I want a main menu available so I can easily navigate the game" |2|1|"When the game starts, the main menu will be displayed" |Nicole Andrade|
-|018 |"As a player I want to be able to start the game from the main menu"|2|1|"When I open the main menu an start button will be display and will start the game when clicked"|Nicole Andrade|
+|018 |"As a player I want to be able to start the game from the main menu"|2|1|"When I open the main menu a start button will be display and will start the game when clicked"|Nicole Andrade|
 
