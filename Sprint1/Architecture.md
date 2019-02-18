@@ -30,6 +30,8 @@ Nothing about the game will be secured. If the user would like to tamper with th
 
 # Interoperability
 
+The EEG will be sending raw data over the COM port. Unity will read this data, but no other programs will. No data will be sent back, either. 
+
 # Internationalization/Localization
 
 While the menu buttons and directions will be in English, the rest of the game is without words. No effort will be made to localize the game in any way.
