@@ -32,6 +32,8 @@ Nothing about the game will be secured. If the user would like to tamper with th
 
 # Internationalization/Localization
 
+While the menu buttons and directions will be in English, the rest of the game is without words. No effort will be made to localize the game in any way.
+
 # Input/Output
 
 # Error Processing
