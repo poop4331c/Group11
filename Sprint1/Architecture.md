@@ -43,4 +43,6 @@ As far as the EEG headset goes, we went took a split road. Higher-end, developer
 
 # Reuse
 
+As none of us have ever done any game programming at all, we do not have any code to reuse. 
+
 # Change Strategy
