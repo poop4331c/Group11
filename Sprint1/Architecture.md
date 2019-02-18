@@ -17,6 +17,7 @@ As this is a game, we have no business rules.
 - [Obstacles](https://imgur.com/oG9y2H3)
 - [Environment] ()
 - [Focus Meter](https://imgur.com/kdBu6G7)
+- [Game Objects](https://imgur.com/QhZOPjJ)
 # Resource Management
 
 # Security
