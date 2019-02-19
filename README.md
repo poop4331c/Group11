@@ -21,8 +21,7 @@ For gamers who are interested in brain-controlled play, the Dorodango is a three
 - Design documents
   * [System Architecture](https://github.com/poop4331c/Group11/blob/master/Sprint1/Architecture.md)
   * [EEG Headset Explanation](https://youtu.be/Kn8jgCWcDXE)
-  * [Main Menu/Prototype Ball Game](https://youtu.be/gshG-pUYgB8)
-  
+  * [Prototype Ball Game](https://youtu.be/MpYVD4WJ-wU)
 - [Source Code](https://github.com/poop4331c/Group11/blob/master/Sprint1/Code/MainMenu.cs)
 - [Test Cases](https://github.com/poop4331c/Group11/blob/master/Sprint1/Code/MainMenuTest.cs)
 - Product Demonstration
