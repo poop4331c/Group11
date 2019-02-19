@@ -91,3 +91,9 @@ As far as the EEG headset goes, we went took a split road. Higher-end, developer
 As none of us have ever done any game programming at all, we do not have any code to reuse. 
 
 # Change Strategy
+
+The modular nature of Unity programming means that interobject dependency will be low, and the effects of changes to a single piece of code are limited in scope. However, having a strategy for change is important, as this is a system we are unfamiliar with and the consequences of our actions are at this point mostly unknown to us. 
+
+To mitigate potential damage and to facilitate our future changes, we will be employing two major strategies: backing up our code to GitHub for version control, and maximizing the modularity of the code itself. We will try to keep couplings between objects as low as physically possible.
+
+Additionally, because we are all working on our own sections of a large system, we will have a strategy for making changes. After ensuring that we are working with the most recent version of the game, we will apply our own changes, test them, commit them, and then instruct the other members of the team to update the version they are working with. This should ensure that we are able to maintain a working verison at all times. 
