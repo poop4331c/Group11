@@ -17,12 +17,12 @@ Our major classes are:
 * MapElement
 * Sprite
 * Item
- * PowerUp
- * Sparkle
- * Sushi
+  * PowerUp
+  * Sparkle
+  * Sushi
 * Controller
- * Mouse
- * EEG
+  * Mouse
+  * EEG
 
 # Data Design
 
