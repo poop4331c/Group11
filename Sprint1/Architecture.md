@@ -32,6 +32,10 @@ Nothing about the game will be secured. If the user would like to tamper with th
 
 # Performance
 
+The game should be no more demanding than any other. Unless we do not properly clear map tiles that are no longer in use, nothing is likely to put any real strain on the computer. Performance, at this point, is not a concern. 
+
+If there is a concern, the greatest concern is speed. This is a game in which the player is attempting to move through the map as quickly as possible, obtaining speed boosts and avoiding obstacles that would slow them down. Every care will be taken to ensure the map is able to be rendered at the speed we want, as skilled players may be moving extremely quickly, causing rendering speed to be an issue. 
+
 # Scalability
 
 # Interoperability
