@@ -19,7 +19,7 @@ As this is a game, we have no business rules.
 - [Main Menu](https://imgur.com/ZMTREOE)
 - [Scoreboard](https://imgur.com/5nW9NJs)
 - [Obstacles](https://imgur.com/oG9y2H3)
-- [Environment] ()
+- [Environment] (https://imgur.com/a/sNl0lUw)
 - [Focus Meter](https://imgur.com/kdBu6G7)
 - [Game Objects](https://imgur.com/QhZOPjJ)
 # Resource Management
@@ -47,6 +47,8 @@ The EEG will be sending raw data over the COM port. Unity will read this data, b
 While the menu buttons and directions will be in English, the rest of the game is without words. No effort will be made to localize the game in any way.
 
 # Input/Output
+
+The player will control the sprite via a combination of mouse and EEG input. The mouse, which will be reading just-in-time, will control the lateral location of the sprite on the course. The EEG input will control the velocity at which the sprite moves forward on the course. Because of the high level of noise received from the EEG, we will need to do some amount of processing to each frame of input, and the result is that the EEG input will be a few moments behind at all times. 
 
 # Error Processing
 
