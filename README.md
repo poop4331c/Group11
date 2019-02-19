@@ -20,7 +20,6 @@ For gamers who are interested in brain-controlled play, the Dorodango is a three
 - [Requirements](https://github.com/poop4331c/Group11/blob/master/Sprint1/Requirements.md)
 - Design documents
   * [System Architecture](https://github.com/poop4331c/Group11/blob/master/Sprint1/Architecture.md)
-  * [EEG Headset Explanation](https://youtu.be/Kn8jgCWcDXE)
   * [Prototype Ball Game](https://youtu.be/MpYVD4WJ-wU)
   * [Class Diagrams](https://github.com/poop4331c/Group11/tree/master/Sprint1/Class%20Diagrams)
   * [Use Case Diagrams](https://github.com/poop4331c/Group11/tree/master/Sprint1/Use%20case%20diagrams)
@@ -29,3 +28,5 @@ For gamers who are interested in brain-controlled play, the Dorodango is a three
 - [Test Cases](https://github.com/poop4331c/Group11/blob/master/Sprint1/Code/MainMenuTest.cs)
 - Product Demonstration
   * [Main Menu](https://youtu.be/pTQ_hn4snWk)
+  * [EEG Headset Explanation](https://youtu.be/Kn8jgCWcDXE)
+  
