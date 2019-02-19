@@ -5,7 +5,24 @@ We will be designing and programming the game in Unity. Because of this, most of
 
 # Major Classes
 
-The major classes we are expected to have are MainMenu, LoadPreviousData, Movement, Collisions. This is subject to change as we move further into the development process.
+Our major classes are:
+
+- Menu
+ * MainMenu
+ * PauseMenu
+ * GameOverMenu
+- Game
+- HUD
+- Music
+- MapElement
+- Sprite
+- Item
+ * PowerUp
+ * Sparkle
+ * Sushi
+- Controller
+ * Mouse
+ * EEG
 
 # Data Design
 
