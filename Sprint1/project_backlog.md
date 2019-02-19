@@ -6,7 +6,7 @@
 |001 | “As a player, I want to be able to tell that I have the headset on incorrectly, so that I know when to adjust it."|3|1| “When I have the headset on incorrectly, the game will instruct me to fix the fit." |PENDING|
 |002 | "As a player, I want to have the opportunity to pause the game so that I don't lose progress if I have to stop." |2|3| "A pause button is available on the game screen and stops the timer and game play." |PENDING|
 |003 | “As a player, I want a meter that shows how focused I am, so that I can tell if I need to focus more.” |3|1| “When I am more focused, the meter goes up." |PENDING|
-|004 | "As a player, I want a description of the game available so that I will know how to play" |2|2| "When I open the game, The main menu will have a how to button that when clicked will display a description of the game" |WORKING|
+|004 | "As a player, I want instructions for the game so that I will know how to play." |2|2| "When I open the game, The main menu will have a "How To" button that when clicked will display instructions." |WORKING|
 |005 | "As a player, I want to be able to improve my score further even if I am already doing well in the game." |2|3|"Bonus items and powerups are available in-game but not necessary for completion."|PENDING|
 |006 |"As a player, I want feedback as to how well I performed at the end of a round so that I can see my progress."|2|2|"When I reach Game Over, I see a break down of how long I lasted, how focused I was, and how far I got."|PENDING|
 |007 |“As a player, I want to have some sort of placing system, so I know how well I’ve done."|2|2| “When I’ve made it a certain distance, I will see a high score." |PENDING|
