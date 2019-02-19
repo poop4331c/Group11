@@ -24,6 +24,8 @@ As this is a game, we have no business rules.
 - [Game Objects](https://imgur.com/QhZOPjJ)
 # Resource Management
 
+Our game is an "infinite scrolling" style game, where more of the map loads as the user continues forward, and more map is generated the longer the user lasts. In order to prevent memory bloat, we will be clearing the area behind the player as they progress, and loading no more than three tiles in advance. 
+
 # Security
 
 Nothing about the game will be secured. If the user would like to tamper with their own high score list, that's their decision to live with. 
