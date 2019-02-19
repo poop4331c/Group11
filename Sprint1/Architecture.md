@@ -7,6 +7,10 @@ We will be designing and programming the game in Unity. Because of this, most of
 
 # Data Design
 
+We will keep a scoreboard of the top ten runs in a CSV file. At the start of the game, we will load the data in, and upon a qualifying user score, the file will be overwritten with the new score. 
+
+Each line in the file will contain the initials of the user who earned the score, their total points, distance, time, and focus percentage. The initials will be a three line string, and the rest of the values will be integers. 
+
 # Business Rules
 
 As this is a game, we have no business rules. 
