@@ -23,7 +23,6 @@ For gamers who are interested in brain-controlled play, the Dorodango is a three
   * [Prototype Ball Game](https://youtu.be/MpYVD4WJ-wU)
   * [Class Diagrams](https://github.com/poop4331c/Group11/tree/master/Sprint1/Class%20Diagrams)
   * [Use Case Diagrams](https://github.com/poop4331c/Group11/tree/master/Sprint1/Use%20case%20diagrams)
-  * [Concept art for game](https://imgur.com/a/sNl0lUw)
 - [Source Code](https://github.com/poop4331c/Group11/blob/master/Sprint1/Code/MainMenu.cs)
 - [Test Cases](https://github.com/poop4331c/Group11/blob/master/Sprint1/Code/MainMenuTest.cs)
 - [Product Demonstration](https://youtu.be/Pc_N4bz2_I8)
