@@ -8,9 +8,9 @@ We will be designing and programming the game in Unity. Because of this, most of
 Our major classes are:
 
 * Menu
- * MainMenu
- * PauseMenu
- * GameOverMenu
+ 1. MainMenu
+ 2. PauseMenu
+ 3. GameOverMenu
 * Game
 * HUD
 * Music
