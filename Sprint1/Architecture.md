@@ -5,6 +5,8 @@ We will be designing and programming the game in Unity. Because of this, most of
 
 # Major Classes
 
+The major classes we are expected to have are MainMenu, LoadPreviousData, Movement, Collisions. This is subject to change as we move further into the development process.
+
 # Data Design
 
 We will keep a scoreboard of the top ten runs in a CSV file. At the start of the game, we will load the data in, and upon a qualifying user score, the file will be overwritten with the new score. 
@@ -19,7 +21,7 @@ As this is a game, we have no business rules.
 - [Main Menu](https://imgur.com/ZMTREOE)
 - [Scoreboard](https://imgur.com/5nW9NJs)
 - [Obstacles](https://imgur.com/oG9y2H3)
-- [Environment] (https://imgur.com/a/sNl0lUw)
+- [Environment](https://imgur.com/a/sNl0lUw)
 - [Focus Meter](https://imgur.com/kdBu6G7)
 - [Game Objects](https://imgur.com/QhZOPjJ)
 # Resource Management
@@ -38,6 +40,8 @@ If there is a concern, the greatest concern is speed. This is a game in which th
 
 # Scalability
 
+We do not anticipate the need for incorporating scalability into the system architecture. The system's workload while playing the game is expected to remain consistent each time the game is played. 
+
 # Interoperability
 
 The EEG will be sending raw data over the COM port. Unity will read this data, but no other programs will. No data will be sent back, either. 
@@ -52,7 +56,11 @@ The player will control the sprite via a combination of mouse and EEG input. The
 
 # Error Processing
 
+Errors will be detected and handled using manual testing. Automated tests may be used to check for errors related to memory management.
+
 # Fault Tolerance
+
+Once finished, the game is expected to run as intended. Care will be taken to ensure that any faults in the hardware or software will not cause the system to crash. If there is an issue with the quality of the signal received from the EEG device, the game will pause and prompt the player to adjust it accordingly.
 
 # Architectural Feasibility
 
