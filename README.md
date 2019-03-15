@@ -29,3 +29,15 @@ For gamers who are interested in brain-controlled play, the Dorodango is a three
 
   # Sprint 2
   
+- Product Backlog
+- Sprint Backlog
+  - Burndown Chart
+- Requirements
+- Design Documents
+  - System Architecture
+  - Class Diagrams
+  - Sequence Diagrams
+  - etc.
+- Source Code
+- Test Cases
+- Product Demonstration
