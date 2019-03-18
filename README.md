@@ -34,7 +34,7 @@ For gamers who are interested in brain-controlled play, the Dorodango is a three
   - Burndown Chart
 - Requirements
 - Design Documents
-  - System Architecture
+  - [System Architecture](https://github.com/poop4331c/Group11/blob/master/Sprint1/Architecture.md)
   - Class Diagrams
   - Sequence Diagrams
   - etc.
