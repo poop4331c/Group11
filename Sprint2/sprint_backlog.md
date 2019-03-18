@@ -16,5 +16,5 @@
 |017 |As a player, I want to be able to navigate to the main menu while in the game.|2|1|While playing the game a button that navigates to the main menu will be displayed|X|
 |019 |As a player, I want to be able to watch my score increase while I play.|3|2|While playing the game a score will be diplayed and will increase as the player continues to play|Nicole Andrade|
 |020|As a player, I want a dark magical theme so that the game will be more engaging.|4|3|While playing the game, the constant dark magical theme will be visible.|Keyana Wright|
-|021|As a player, I want the game to be three dimensional, so that the game is more immersive.|4|3|While playing the game, the objects are three dimensional.|:D|
+|021|As a player, I want the game to be three dimensional, so that the game is more immersive.|4|3|While playing the game, the objects are three dimensional.|Keyana Wright|
 |022|As a player, I want the game to be in third person, so that I can see a wide portion of the environment.|4|3|The game will stay in third person throughout the game.|Keyana Wright|
