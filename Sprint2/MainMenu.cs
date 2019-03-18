@@ -17,7 +17,6 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(newGameScene);
      }
 
-    //Opens a pop up box that displays the high score
     public void HighScore()
     {
         SceneManager.LoadScene(highscoreTableScene);
