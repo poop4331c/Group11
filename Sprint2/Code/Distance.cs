@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//Script to measure player's distance for score
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -16,7 +17,8 @@ public class Distance : MonoBehaviour
     {
         gameplayManager = GameObject.FindObjectOfType<GameManager>();
     }
-    // Update is called once per frame
+    
+    
     void Update()
     {
         Distance_ = Vector3.Distance(player.transform.position, startingPosition.transform.position);
