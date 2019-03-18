@@ -103,6 +103,10 @@ For the assets, we anticipate using 100% free assets downloaded from the interne
 
 As far as the EEG headset goes, we went took a split road. Higher-end, developer friendly EEG headsets are available at a hefty price appropriate for the high-end researchers we aren't. So, we purchased a discounted Star Wars Force Trainer toy headset, not intended for modification or use as a development platform, and modified it by cracking it open and soldering wires to the internals that pass serial information through an Arduino and into a USB connection to a PC. It's safe to say the warranty is void.
 
+Assets we are using from the web:
+https://github.com/dwilches/Ardity
+https://www.bensound.com/royalty-free-music/track/summer-chill-relaxed-tropical
+
 # Reuse
 
 As none of us have ever done any game programming at all, we do not have any code to reuse. 
