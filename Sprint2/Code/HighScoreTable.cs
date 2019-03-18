@@ -25,7 +25,7 @@ public class HighScoreTable : MonoBehaviour
         //When there isn't any data stored, default values are loaded
         if (!PlayerPrefs.HasKey("highscoreTable"))
         {
-             //This is how we put in values
+             
              highscoreEntryList = new List<HighscoreEntry>()
               {
                   new HighscoreEntry { score = 00000, name = "AAA"},
@@ -58,7 +58,7 @@ public class HighScoreTable : MonoBehaviour
 
     }
 
-    //Receives Highscore Entry object
+    //Receives HighscoreEntry object
     public void CreateHighScoreEntryTransform(HighscoreEntry highscoreEntry, Transform container, List<Transform> transformList)
     {
     
