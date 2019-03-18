@@ -106,6 +106,7 @@ As far as the EEG headset goes, we went took a split road. Higher-end, developer
 Assets we are using from the web:
 https://github.com/dwilches/Ardity
 https://www.bensound.com/royalty-free-music/track/summer-chill-relaxed-tropical
+https://assetstore.unity.com/packages/2d/textures-materials/foxxee-s-spheres-6361
 
 # Reuse
 
