@@ -8,20 +8,18 @@ We will be designing and programming the game in Unity. Because of this, most of
 Our major classes are:
 
 * Menu
-  * MainMenu
-  * PauseMenu
-  * GameOverMenu
+  * Scoreboard
 * Game
 * HUD
 * Music
 * MapElement
-* Sprite
-* Item
+* Player
+* Items
   * PowerUp
   * Sparkle
   * Sushi
 * Controller
-  * Mouse
+  * Key pad
   * EEG
 
 # Data Design
