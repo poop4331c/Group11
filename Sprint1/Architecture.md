@@ -35,7 +35,7 @@ Each line in the file will contain the initials of the user who earned the score
 As this is a game, we have no business rules. 
 
 # User Interface Design
-- [User Interface Diagram]
+- [User Interface Diagram](https://github.com/poop4331c/Group11/tree/master/Sprint2/UI%20Diagram)
 - [Main Menu](https://imgur.com/ZMTREOE)
 - [Scoreboard](https://imgur.com/5nW9NJs)
 - [Obstacles](https://imgur.com/oG9y2H3)
