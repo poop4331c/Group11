@@ -2,7 +2,7 @@
 
 |ID  | User Story | Effort | Priority | Validation Criteria | Owner |
 |----|------------|--------|----------|---------------------|--------|
-|002 | As a player, I want to have the opportunity to pause the game so that I don't lose progress if I have to stop.|2|3| A pause button is available on the game screen and stops the timer and game play.|Keyana Wright|
+|002 | As a player, I want to have the opportunity to pause the game so that I don't lose progress if I have to stop.|2|3|  Pressing the "p" key on the keyboard pauses the game play.|Nicole Andrade|
 |003 | As a player, I want a meter that shows how focused I am, so that I can tell if I need to focus more.|3|1|When I am more focused, the meter goes up. |Jade Zsiros|
 |005 | As a player, I want to be able to improve my score further even if I am already doing well in the game. |2|3|Bonus items and powerups are available in-game but not necessary for completion.|Keyana Wright|
 |006 |As a player, I want feedback as to how well I performed at the end of a round so that I can see my progress.|2|2|When I reach Game Over, I see a break down of how long I lasted, how focused I was, and how far I got.|PENDING|
