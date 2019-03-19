@@ -29,3 +29,8 @@
 | 025|012|The map in the game will be procedurally generated as long as player does not lose or quit the game.|Pending|
 | 026|013|The player will have the option to choose between two different sprites.|Pending|
 | 027|014|Before the game begins, the highest score achieved will be displayed.|Pending|
+| 028|015|When the music button is clicked, the music will be muted.|Pending|
+| 029|017|There will be a button in game that navigates back to the main menu.|Verified|
+| 030|019|There will be a text in game that displays the player's current score based on distance travelled.|Verified|
+| 031|021|The game will be developed in 3d.|Verified|
+| 032|022|The game will be developed in third person point of view.|Verified|
