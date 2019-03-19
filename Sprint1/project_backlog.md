@@ -25,3 +25,4 @@
 |020|As a player, I want a dark magical theme so that the game will be more engaging.|4|3|While playing the game, the constant dark magical theme will be visible.|PENDING|
 |021|As a player, I want the game to be three dimensional, so that the game is more immersive.|4|3|While playing the game, the objects are three dimensional.|DONE|
 |022|As a player, I want the game to be in third person, so that I can see a wide portion of the environment.|4|3|The game will stay in third person throughout the game.|DONE|
+|023|As a player, I want an obstacle in the game such as a hole on the ground that will cause the game to be over when I fail to avoid it, so that the game will be more exciting.|4|3|PENDING|
