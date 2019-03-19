@@ -4,7 +4,7 @@
 |----|------------|--------|----------|---------------------|--------|
 |000 |  As a player, I want the headset to interface by USB, so that it is easy to use. |2|1|When I plug the headset, the game will tell me if the headset is plugged in|WORKING|
 |001 | As a player, I want to be able to tell that I have the headset on incorrectly, so that I know when to adjust it.|3|1| When I have the headset on incorrectly, the game will instruct me to fix the fit. |PENDING|
-|002 | As a player, I want to have the opportunity to pause the game so that I don't lose progress if I have to stop.|2|3| A pause button is available on the game screen and stops the timer and game play.|DONE|
+|002 | As a player, I want to have the opportunity to pause the game so that I don't lose progress if I have to stop.|2|3| Pressing the "p" key on the keyboard pauses the game play.|DONE|
 |003 | As a player, I want a meter that shows how focused I am, so that I can tell if I need to focus more.|3|1|When I am more focused, the meter goes up. |PENDING|
 |004 | As a player, I want instructions for the game so that I will know how to play. |2|2| When I open the game, The main menu will have a How To button that when clicked will display instructions. |WORKING|
 |005 | As a player, I want to be able to improve my score further even if I am already doing well in the game. |2|3|Bonus items and powerups are available in-game but not necessary for completion.|PENDING|
