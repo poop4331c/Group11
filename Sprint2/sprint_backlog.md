@@ -15,6 +15,7 @@
 |015 |As a player, I want to be able to mute the music.|3|4|Before the game begins and while in game, there will be an option to mute the music.|PENDING|
 |017 |As a player, I want to be able to navigate to the main menu while in the game.|2|1|While playing the game a button that navigates to the main menu will be displayed|Nicole Andrade|
 |019 |As a player, I want to be able to watch my score increase while I play.|3|2|While playing the game a score will be diplayed and will increase as the player continues to play|Nicole Andrade|
-|020|As a player, I want a dark magical theme so that the game will be more engaging.|4|3|While playing the game, the constant dark magical theme will be visible.|Keyana Wright|
+|020|As a player, I want a dark magical theme that includes crystals, potions and a mystical forest so that the game will be more engaging.|4|3|While playing the game, the constant dark magical theme will be visible.|Keyana Wright|
 |021|As a player, I want the game to be three dimensional, so that the game is more immersive.|4|3|While playing the game, the objects are three dimensional.|Keyana Wright|
 |022|As a player, I want the game to be in third person, so that I can see a wide portion of the environment.|4|3|The game will stay in third person throughout the game.|Keyana Wright|
+|023|As a player, I want an obstacle in the game such as a hole in the ground that will cause the game to be over when I fail to avoid it, so that the game will be more exciting.|4|3|When the sprite collides with the hole obstacle, it will result in Game Over.|Keyana Wright|
