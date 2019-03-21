@@ -31,7 +31,7 @@ For gamers who are interested in brain-controlled play, the Dorodango is a three
   
 - [Product Backlog](https://github.com/poop4331c/Group11/blob/master/Sprint1/project_backlog.md)
 - [Sprint Backlog](https://github.com/poop4331c/Group11/blob/master/Sprint2/sprint_backlog.md)
-  - Burndown Chart
+  - [Burndown Chart](https://imgur.com/lIRJhXF)
 - [Requirements](https://github.com/poop4331c/Group11/blob/master/Sprint1/Requirements.md)
 - Design Documents
   - [System Architecture](https://github.com/poop4331c/Group11/blob/master/Sprint1/Architecture.md)
