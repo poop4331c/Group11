@@ -8,7 +8,7 @@
 |003 | As a player, I want a meter that shows how focused I am, so that I can tell if I need to focus more.|3|1|When I am more focused, the meter goes up. |PENDING|
 |004 | As a player, I want instructions for the game so that I will know how to play. |2|2| When I open the game, The main menu will have a How To button that when clicked will display instructions. |WORKING|
 |005 | As a player, I want to be able to improve my score further even if I am already doing well in the game. |2|3|Bonus items and powerups are available in-game but not necessary for completion.|DONE|
-|006 |As a player, I want feedback as to how well I performed at the end of a round so that I can see my progress.|2|2|When I reach Game Over, I see a break down of how long I lasted, how focused I was, and how far I got.|PENDING|
+|006 |As a player, I want feedback as to how well I performed at the end of a round so that I can see my progress.|2|2|When I reach Game Over, I see a break down of how long I lasted, and how far I got.|PENDING|
 |007 |As a player, I want to have some sort of placing system, so I know how well I’ve done.|2|2| When I’ve made it a certain distance, I will see a high score. |PENDING|
 |008 |As a player, I want to be able to take control of the game in case the headset malfunctions or I have difficulty using it. |3|2|Mouse and keyboard controls are available for the user to exit or pause the game.|DONE|
 |009 |As a player, I want a unique gaming experience that is challenging |3|1| The game will be controlled by EEG readings, so that a player's focus and thoughts directly control their in-game movement. |PENDING|
