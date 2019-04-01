@@ -41,3 +41,18 @@ For gamers who are interested in brain-controlled play, the Dorodango is a three
 - [Source Code](https://github.com/poop4331c/Group11/tree/master/Sprint2/Code)
 - [Test Cases](https://github.com/poop4331c/Group11/tree/master/Sprint2/Unit%20Tests)
 - [Product Demonstration](https://youtu.be/MWVH6u_IDzE)
+
+# Sprint 3
+
+- [Product Backlog](https://github.com/poop4331c/Group11/blob/master/Sprint1/project_backlog.md)
+- [Sprint Backlog]
+  - [Burndown Chart]
+- [Requirements](https://github.com/poop4331c/Group11/blob/master/Sprint1/Requirements.md)
+- Design Documents
+  - [System Architecture](https://github.com/poop4331c/Group11/blob/master/Sprint1/Architecture.md)
+  - [System Architecture Diagram]
+  - [Class Diagrams]
+  - Sequence Diagram
+- [Source Code]
+- [Test Cases]
+- [Product Demonstration]
