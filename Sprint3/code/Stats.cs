@@ -10,7 +10,7 @@ public class Stats : MonoBehaviour
     {
         if (gameObject.name == "Total PowerUps")
         {
-            GetComponent<TextMesh>().text = "Total Powerups: " + EnviormentGM.crystalPowerUpTotal;
+            GetComponent<TextMesh>().text = "Total Powerups: " + EnvironmentGM.crystalPowerUpTotal;
         }
         if (gameObject.name == "Total Points")
         {
