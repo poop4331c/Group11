@@ -5,7 +5,7 @@
 |006 |As a player, I want feedback as to how well I performed at the end of a round so that I can see my progress.|2|2|When I reach Game Over, I see a break down of how long I lasted, and how far I got.|Keyana Wright / Nicole Andrade|
 |024|As a player, I want a main menu button on the Game Over scene, so that I can navigate back to the main menu.|2|4|There will be a main menu button in the Game Over scene that when clicked will take the player back to the main menu.|Nicole Andrade|
 |003 | As a player, I want a meter that shows how focused I am, so that I can tell if I need to focus more.|3|1|When I am more focused, the meter goes up. |Jade Zsiros|
-|004 | As a player, I want instructions for the game so that I will know how to play. |2|2| When I open the game, The main menu will have a How To button that when clicked will display instructions. |WORKING|
+|004 | As a player, I want instructions for the game so that I will know how to play. |2|2| When I open the game, The main menu will have a How To button that when clicked will display instructions. |Jade Zsiros|
 |007 |As a player, I want to have some sort of placing system, so I know how well I’ve done.|2|2| When I’ve made it a certain distance, I will see a high score. |Nicole Andrade|
 |008 |As a player, I want to be able to take control of the game in case the headset malfunctions or I have difficulty using it. |3|2|Mouse and keyboard controls are available for the user to exit or pause the game.|Jade Zsiros|
 |009 |As a player, I want a unique gaming experience that is challenging |3|1| The game will be controlled by EEG readings, so that a player's focus and thoughts directly control their in-game movement. |Jade Zsiros|
