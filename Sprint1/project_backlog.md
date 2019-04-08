@@ -8,22 +8,22 @@
 |003 | As a player, I want a meter that shows how focused I am, so that I can tell if I need to focus more.|3|1|When I am more focused, the meter goes up. |PENDING|
 |004 | As a player, I want instructions for the game so that I will know how to play. |2|2| When I open the game, The main menu will have a How To button that when clicked will display instructions. |WORKING|
 |005 | As a player, I want to be able to improve my score further even if I am already doing well in the game. |2|3|Bonus items and powerups are available in-game but not necessary for completion.|DONE|
-|006 |As a player, I want feedback as to how well I performed at the end of a round so that I can see my progress.|2|2|When I reach Game Over, I see a break down of how long I lasted, and how far I got.|PENDING|
-|007 |As a player, I want to have some sort of placing system, so I know how well I’ve done.|2|2| When I’ve made it a certain distance, I will see a high score. |PENDING|
+|006 |As a player, I want feedback as to how well I performed at the end of a round so that I can see my progress.|2|2|When I reach Game Over, I see a break down of my total score.|DONE|
+|007 |As a player, I want to have some sort of placing system, so I know how well I’ve done.|2|2| When I’ve made it a certain distance, I will see a high score. |DONE|
 |008 |As a player, I want to be able to take control of the game in case the headset malfunctions or I have difficulty using it. |3|2|Mouse and keyboard controls are available for the user to exit or pause the game.|DONE|
 |009 |As a player, I want a unique gaming experience that is challenging |3|1| The game will be controlled by EEG readings, so that a player's focus and thoughts directly control their in-game movement. |PENDING|
 |010 |As a player, I want to be able to exit the game from the main menu |2|1|When I open the main menu an exit button will be displayed and will exit the game when clicked |DONE|
-|011 |As a player, I want to be able to see my new high score (new longest distance), so that I can try to go further the next game |2|2|When I reach a further distance, my score is displayed |WORKING|
-|012 |As a player, I want to be able to continue playing as long as I am doing well.|3|2|The map ahead of the player is procedurally generated as long as the player doesn't reach a Game Over.|PENDING|
+|011 |As a player, I want to be able to see my new high score (new longest distance), so that I can try to go further the next game |2|2|When I reach a further distance, my score is displayed |DONE|
+|012 |As a player, I want to be able to continue playing as long as I am doing well.|3|2|The map ahead of the player is procedurally generated as long as the player doesn't reach a Game Over.|DONE|
 |013 |As a player, I want to be able to choose from different sprites |2|3|When the game loads there will be sprite options |PENDING|
-|014 |As a player, I want to be incentivized to play the game again.|2|3|Before a new game begins the last high score that was achieved will be displayed.|PENDING|
+|014 |As a player, I want to be incentivized to play the game again.|2|3|Before a new game begins the last high score that was achieved will be displayed.|DONE|
 |015 |As a player, I want to be able to mute the music.|3|4|Before the game begins and while in game, there will be an option to mute the music.|PENDING|
 |016 |As a player, I want a main menu available so I can easily navigate the game. |2|1|When the game starts, the main menu will be displayed |DONE|
 |017 |As a player, I want to be able to navigate to the main menu while in the game.|2|1|While playing the game a button that navigates to the main menu will be displayed|DONE|
 |018 |As a player, I want to be able to start the game from the main menu.|2|1|When I open the main menu an start button will be display and will start the game when clicked|DONE|
 |019 |As a player, I want to be able to watch my score increase while I play.|3|2|While playing the game a score will be diplayed and will increase as the player continues to play|DONE|
-|020|As a player, I want a dark magical theme so that the game will be more engaging.|4|3|While playing the game, the constant dark magical theme will be visible.|PENDING|
+|020|As a player, I want a dark magical theme so that the game will be more engaging.|4|3|While playing the game, the constant dark magical theme will be visible.|DONE|
 |021|As a player, I want the game to be three dimensional, so that the game is more immersive.|4|3|While playing the game, the objects are three dimensional.|DONE|
 |022|As a player, I want the game to be in third person, so that I can see a wide portion of the environment.|4|3|The game will stay in third person throughout the game.|DONE|
 |023|As a player, I want an obstacle in the game such as a hole in the ground that will cause the game to be over when I fail to avoid it, so that the game will be more exciting.|4|3|When the sprite collides with the hole obstacle, it will result in Game Over.|DONE|
-|024|As a player, I want a main menu button on the Game Over scene, so that I can navigate back to the main menu.|2|4|There will be a main menu button in the Game Over scene that when clicked will take the player back to the main menu.|PENDING|
+|024|As a player, I want a main menu button on the Game Over scene, so that I can navigate back to the main menu.|2|4|There will be a main menu button in the Game Over scene that when clicked will take the player back to the main menu.|DONE|
