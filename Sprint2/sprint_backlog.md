@@ -10,7 +10,7 @@
 |008 |As a player, I want to be able to take control of the game in case the headset malfunctions or I have difficulty using it. |3|2|Mouse and keyboard controls are available for the user to exit or pause the game.|Nicole Andrade|
 |009 |As a player, I want a unique gaming experience that is challenging |3|1| The game will be controlled by EEG readings, so that a player's focus and thoughts directly control their in-game movement. |Jade Zsiros|
 |011 |As a player, I want to be able to see my new high score (new longest distance), so that I can try to go further the next game |2|2|When I reach a further distance, my score is displayed |PENDING|
-|012 |As a player, I want to be able to continue playing as long as I am doing well.|3|2|The map ahead of the player is procedurally generated as long as the player doesn't reach a Game Over.|Keyana Wright|
+|012 |As a player, I want to be able to continue playing as long as I am doing well.|3|2|The map ahead of the player is generated as long as the player doesn't reach a Game Over.|Keyana Wright|
 |014 |As a player, I want to be incentivized to play the game again.|2|3|Before a new game begins the last high score that was achieved will be displayed.|PENDING|
 |015 |As a player, I want to be able to mute the music.|3|4|Before the game begins and while in game, there will be an option to mute the music.|PENDING|
 |017 |As a player, I want to be able to navigate to the main menu while in the game.|2|1|While playing the game a button that navigates to the main menu will be displayed|Nicole Andrade|
