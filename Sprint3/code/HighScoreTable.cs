@@ -11,8 +11,7 @@ public class HighScoreTable : MonoBehaviour
     public Transform entryContainer;
     public Transform entryTemplate;
     public List<HighscoreEntry> highscoreEntryList;
-    public List<Transform> highscoreEntryTransformList;
-   
+    public List<Transform> highscoreEntryTransformList;  
 
     public void Awake()
     {
@@ -21,9 +20,6 @@ public class HighScoreTable : MonoBehaviour
 
         //Hide default template
         entryTemplate.gameObject.SetActive(false);
-
-
-        //PlayerPrefs.DeleteKey("highscoreTable");
         
         //When there isn't any data stored, default values are loaded
         if (!PlayerPrefs.HasKey("highscoreTable"))
