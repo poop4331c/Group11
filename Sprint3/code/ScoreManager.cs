@@ -15,15 +15,6 @@ public class ScoreManager : MonoBehaviour
     public float highscoreCount;
     public bool DistanceIncreasing;
 
-    /*public void Awake()
-    {
-        if (!PlayerPrefs.HasKey("HighScore"))
-        {
-            highscoreCount = 0;
-            PlayerPrefs.SetFloat("HighScore", highscoreCount);
-        }
-    } */
-
     // Start is called before the first frame update
     void Start()
     {
