@@ -1,4 +1,4 @@
-# Sprint 2 Backlog (03/20/2019 - 04/08/2019)
+# Sprint 3 Backlog (03/20/2019 - 04/08/2019)
 
 |ID  | User Story | Effort | Priority | Validation Criteria | Owner |
 |----|------------|--------|----------|---------------------|--------|
