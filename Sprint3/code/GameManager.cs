@@ -6,8 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public string highscoreTableScene;
-    public Text scoreText;
+    public string gameOverScene;
     public addToScoreTable newEntry;
     public ScoreManager scoreManager;
     public GameController gameController;
@@ -21,6 +20,7 @@ public class GameManager : MonoBehaviour
         gameController = FindObjectOfType<GameController>();
     }
 
+    //Pause in game
     void FixedUpdate()
     {
         if (Input.GetKey("p"))
@@ -50,6 +50,6 @@ public class GameManager : MonoBehaviour
          scoreManager.Distance = 0;
          scoreManager.DistanceIncreasing = true;
          newEntry.AddHighscoreEntry((int)finalScore, playerName);
-         SceneManager.LoadScene(highscoreTableScene);
+         SceneManager.LoadScene(gameOverScene);
     }
 }
