@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnviormentGM : MonoBehaviour
+public class EnvironmentGM : MonoBehaviour
 {
     public static int crystalPowerUpTotal = 0;
     public static float timeTotal = 0.0f;
