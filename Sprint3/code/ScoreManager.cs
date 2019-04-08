@@ -29,7 +29,7 @@ public class ScoreManager : MonoBehaviour
         //Checking if player is still alive
         if (DistanceIncreasing)
         {
-            Distance = Vector3.Distance(player.transform.position, startingPosition.transform.position) + EnviormentGM.crystalPowerUpTotal;
+            Distance = Vector3.Distance(player.transform.position, startingPosition.transform.position) + EnvironmentGM.crystalPowerUpTotal;
         }
 
         score.text = calculateDistance(Distance).ToString();
