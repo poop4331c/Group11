@@ -39,7 +39,7 @@ For gamers who are interested in brain-controlled play, the Dorodango is a three
   - [Class Diagrams](https://github.com/poop4331c/Group11/blob/master/Sprint2/UML%20Class%20Diagram%20(1).pdf)
   - Sequence Diagram
 - [Source Code](https://github.com/poop4331c/Group11/tree/master/Sprint2/Code)
-- [Test Cases](https://github.com/poop4331c/Group11/tree/master/Sprint2/Unit%20Tests)
+- [Tests](https://github.com/poop4331c/Group11/tree/master/Sprint2/Unit%20Tests)
 - [Product Demonstration](https://youtu.be/MWVH6u_IDzE)
 
 # Sprint 3
